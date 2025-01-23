@@ -1,6 +1,14 @@
-#Brain pictures
+#Brain pictures 3-4 classes
 agyikepek*
-
+#Myvenv
+brain_venv
+#Models
+.pkl
+models
+#Unet
+mask_images
+#Images resized
+train_test_y_images
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
